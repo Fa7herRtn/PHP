@@ -2,5 +2,5 @@
 
 echo  "Ola Mundo";
 
-<? 
+?>
 
